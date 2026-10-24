@@ -1,0 +1,42 @@
+[
+  {
+    "question": "hello",
+    "answer": "Hello! Main aapka offline AI assistant hoon."
+  },
+  {
+    "question": "hi",
+    "answer": "Hi! Main ready hoon aapki madad ke liye."
+  },
+  {
+    "question": "who are you",
+    "answer": "Main ek local Java AI assistant hoon jo JSON data se reply deta hai."
+  },
+  {
+    "question": "what is java",
+    "answer": "Java ek object-oriented programming language hai jo Android apps aur backend development me use hoti hai."
+  },
+  {
+    "question": "what is xml",
+    "answer": "XML ek markup language hai jo Android UI layout aur data format me use hoti hai."
+  },
+  {
+    "question": "how are you",
+    "answer": "Main thik hoon. Aap kaise hain?"
+  },
+  {
+    "question": "tell me a joke",
+    "answer": "Programmer: 'Main code likhne ke liye 10 minute leta hoon, lekin bug fix karne me 10 din lag jaate hain.'"
+  },
+  {
+    "question": "what is ai",
+    "answer": "AI ya Artificial Intelligence ek technology hai jo machines ko intelligent behaviour dene ki koshish karti hai."
+  },
+  {
+    "question": "help",
+    "answer": "Main aapke sawalon ka answer offline data se de sakta hoon. Aur data add karke app ko aur strong bana sakte ho."
+  },
+  {
+    "question": "bye",
+    "answer": "Bye! Phir milenge."
+  }
+]
